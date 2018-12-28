@@ -1,0 +1,7 @@
+﻿  FractionOverloadDriver.cpp
+c:\users\emil1\source\repos\fractionoverload_emathew\fractionoverload_emathew\fractionoverloadheader.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  FractionOverloadImplementation.cpp
+d:\computer programs\visual studio\projects\fractionoverload_emathew\fractionoverload_emathew\fractionoverload_emathew\fractionoverloadheader.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+d:\computer programs\visual studio\projects\fractionoverload_emathew\fractionoverload_emathew\fractionoverload_emathew\fractionoverloadimplementation.cpp(142): warning C4715: 'Fraction::SimplifyFraction': not all control paths return a value
+  FractionOverload_EMathew.vcxproj -> D:\Computer Programs\Visual Studio\Projects\FractionOverload_EMathew\FractionOverload_EMathew\Debug\FractionOverload_EMathew.exe
